@@ -7,4 +7,4 @@ TO do list
 
 Make the function to calculate the half life of the elements
 
-Study about the forbidden 
+Study about the forbidden beta decay
